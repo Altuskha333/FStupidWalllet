@@ -1,6 +1,4 @@
 from aiogram import Bot, Dispatcher, executor, types
-import BaseAPI
-import stupidwalletapi
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from aiogram.dispatcher import FSMContext
 from aiogram.dispatcher.filters import Command
